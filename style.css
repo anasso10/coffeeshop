@@ -1,0 +1,78 @@
+ .all-content{
+    background-color: black;
+ }
+ 
+#btn{
+    border-radius: 18px;
+    padding: 10px;
+    color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#about-btn{
+    border-radius: 18px;
+    padding: 10px;
+    color:grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#contact-btn{
+    border-radius: 18px;
+    padding: 10px;
+    color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#blogbtn{
+    border-radius: 18px;
+    padding: 10px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.col {
+    font-family: Arial, Helvetica, sans-serif;
+   color: darkblue;
+}
+.heading6{
+    color: blanchedalmond;
+}
+.content{
+    color: blanchedalmond;
+   
+}
+.col-md-5{
+    color: blanchedalmond;
+}
+.col-md-6{
+    color: blanchedalmond;
+}
+.fa-twitter{
+    color: deepskyblue;
+}
+.fa-facebook-f{
+    color: steelblue;
+}
+.fa-instagram{
+    color: rgb(131,58, 180);
+    color: linear-gradient(90deg, rgb(131,58,180,1) 10% rgb(253,29,29,1) 50%, rgb(252,176,69,1) 100% );
+}
+.fa-youtube{
+    color: crimson;
+}
+.credite{
+    color: white;
+}
+.copyright{
+    color: white;
+}
+.p1{
+    color: blanchedalmond;
+}
+.nav-item a{
+    text-decoration: none;
+    color: blanchedalmond;
+}
+.logoone{
+    width: 170px;
+    height: 60px;
+}
+footer{
+    padding-top: 10px;
+}
